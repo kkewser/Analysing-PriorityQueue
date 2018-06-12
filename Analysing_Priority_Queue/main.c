@@ -2,9 +2,6 @@
 //  main.c
 //  Analysing_Priority_Queue
 //
-//  Created by kuku_eri@yahoo.com on 6/3/18.
-//  Copyright © 2018 kewser. All rights reserved.
-//
 
 #include <stdio.h>
 #include <stdlib.h>

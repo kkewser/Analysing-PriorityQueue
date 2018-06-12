@@ -2,9 +2,7 @@
 //  skew_heap.h
 //  Analysing_Priority_Queue
 //
-//  Created by kuku_eri@yahoo.com on 6/3/18.
-//  Copyright © 2018 kewser. All rights reserved.
-//
+
 
 #ifndef skew_heap_h
 #define skew_heap_h
